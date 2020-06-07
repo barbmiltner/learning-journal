@@ -12,5 +12,5 @@ Having a growth mindset means believing that I can learn and acquire new skills 
 4. bold and italic fonts
 5. linked text
 # Introduction:
-**Hi my name is Barb and I am new to website development.** I've never used _Markdown_ but I'm learning!
+**Hi my name is Barb and I am new to website development.** I've never used _Markdown_ but I'm learning!:+1:
 #### Here is the [link to my GitHub portfolio page](https://github.com/barbmiltner)
