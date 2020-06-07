@@ -6,6 +6,7 @@
 Learn more on [this help page](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text)
 
 This is from [Wikipedia:](https://en.wikipedia.org/wiki/Markdown#Example)
+
 Paragraphs are separated
 by a blank line.
 
