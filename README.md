@@ -1,5 +1,4 @@
-# learning-journal
-#Explain “growth mindset” in your own words
-#Include 3 reminders to yourself of how to keep yourself in a growth mindset
-#Utilize at least 5 different features of Markdown to structure your page
-#Be sure to introduce yourself, and include a link to your GitHub portfolio page
+# Delta-V 102 learning-journal
+
+## Table of Contents
+#### Here is the [link to my GitHub portfolio page](https://github.com/barbmiltner)
