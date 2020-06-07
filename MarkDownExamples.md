@@ -3,7 +3,9 @@ In this lesson I learned about the Markdown language used in Github. It formats 
 
 Unlike Word and Google Docs, Markdown is not a WYSIWYG language (what you see is NOT what you get) but Github allows you to preview the rendered text before committing changes... so you can actually see what it looks like, but it takes a separate click.
 
-Using Markdown in Github facilitates communication between coders about the code they are developing. Github contains repositories that help track changes to code, and the Markdown language makes it easier to read.
+Using Markdown in Github facilitates communication between coders about the code they are developing. Github contains repositories that help track changes to code, and the Markdown language makes it easier to read. 
+
+To see some examples of Markdown (below), click the pencil icon.
 
 # Markdown examples:
 
