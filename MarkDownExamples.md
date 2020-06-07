@@ -1,11 +1,18 @@
-# Mark down examples
+# Reflection on Markdown
+In this lesson I learned about the Markdown language used in Github. It formats text in a way that is similar to HTML but doesn't use html tags. It is more like plain text and reminds me of the old days before Microsoft Word when text had to be formatted with specific syntax such as ^b for bold.
 
-## This is the second heading
+Unlike Word and Google Docs, Markdown is not a WYSIWYG language (what you see is NOT what you get) but Github allows you to preview the rendered text before committing changes... so you can actually see what it looks like, but it takes a separate click.
+
+Using Markdown in Github facilitates communication between coders about the code they are developing. Github contains repositories that help track changes to code, and the Markdown language makes it easier to read.
+
+# Markdown examples:
+
+## This is a second-level heading using two hastags
 ###### Six hastags makes the smallest heading
 
 Learn more on [this help page](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#styling-text)
 
-This is from [Wikipedia:](https://en.wikipedia.org/wiki/Markdown#Example)
+The following is from [Wikipedia:](https://en.wikipedia.org/wiki/Markdown#Example)
 
 Paragraphs are separated
 by a blank line.
