@@ -1,7 +1,8 @@
 # Delta-V 102 learning-journal
-#### Here is the [link to my GitHub portfolio page](https://github.com/barbmiltner)
+
 ## About Me
-My name is **Barb Miltner** and I am a STEM teacher. I have been teaching at [Xavier High School](https://www.xaviersaints.org/) since 2005 and prior to that I was an engineer at the light company in Cedar Rapids. My husband Mark and I have two kids. We enjoy playing with our three dogs and in our spare time we operate a car wash and laundromat.
+My name is **Barb Miltner** and I am a STEM teacher. I have been teaching at [Xavier High School](https://www.xaviersaints.org/) since 2005 and prior to that I was an engineer at the light company in Cedar Rapids. My husband Mark and I have two kids. We enjoy playing with our three dogs and in our spare time we operate a car wash and laundromat. Here is the [link to my GitHub portfolio page](https://github.com/barbmiltner)
+
 ## Site Navigation - Table of Contents
 - [Home Page](/README.md)
 - [Markdown Examples](/MarkDownExamples.md)
