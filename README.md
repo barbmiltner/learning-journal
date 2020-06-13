@@ -6,5 +6,5 @@ My name is **Barb Miltner** and I am a STEM teacher. Over the years, courses I'v
 ## Site Navigation - Table of Contents
 - [Home Page](/README.md)
 - [Class 01 Markdown Examples](/MarkDownExamples.md)
-- [Lab 01b](/MainPage.md)
+- [Lab 01b Learning Markdown](/MainPage.md)
 - [Class 02 The Coder's Computer](/Class_02_TheCodersComputer.md)
