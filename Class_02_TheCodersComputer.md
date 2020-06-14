@@ -14,7 +14,7 @@ An **IDE, or Integrated Development Environment**, will include a text editor as
 
 A terminal is a command line interface. It reminds me of the old days of DOS, where everything you want to do on the computer has to be typed in as a command, no point and click in a GUI!
 
-### The Command Line
+## The Command Line
 
 Commands are entered at the prompt, followed by a space and then options and arguments.
 
@@ -22,7 +22,7 @@ Options typically start with a dash.
 
 Bash in Unix is an example of a terminal shell. {Honestly I have no idea what this means but it's what I wrote in my notes.}
 
-### Basic Navigation
+## Basic Navigation
 
 You can navigate to a particular location by using paths. Paths can be referred to using either **absolute** reference to the root directory, or **relative** reference to the working directory.
 
@@ -32,7 +32,7 @@ Absolute paths always begin with / but relative paths do not.
 
 The pwd command is useful for figuring where you are if you get lost.
 
-### About Files
+## About Files
 
 In Unix, *everything* is a file, including files, folders, keyboard, monitor, you name it. In this OS, file extensions don't really have meaning and are not required but can be used. Unix figures out what type of file it is by looking at its contents, not at an extension. Also, everything is case sensitive so you can end up with different files just by changing the case of a letter. 
  Be careful!
