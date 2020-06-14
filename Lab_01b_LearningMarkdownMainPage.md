@@ -14,3 +14,5 @@ Having a growth mindset means believing that I can learn and acquire new skills 
 # Introduction:
 **Hi my name is Barb and I am new to website development.** I've never used _Markdown_ but I'm learning!:+1:
 #### Here is the [link to my GitHub portfolio page](https://github.com/barbmiltner)
+
+- [Return to Home Page](/README.md)
