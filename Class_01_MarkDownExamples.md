@@ -49,3 +49,5 @@ An [example](http://example.com).
 > Markdown uses email-style > characters for blockquoting.
 
 Inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported.
+
+- [Home Page](/README.md)
