@@ -1,3 +1,5 @@
+- [Return to Home Page](/README.md)
+
 # Lab 02
 
 I installed Visual Studio Code, node.js (got an error adding the nodesource signing key to my keyring), Eslint, and Git
@@ -79,3 +81,4 @@ Up and down arrows cycle through the last commands to help reduce typing them ea
 
 [Here](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cd) is a list of other commands for Windows.
 
+- [Return to Home Page](/README.md)
