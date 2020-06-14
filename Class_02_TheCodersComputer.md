@@ -44,6 +44,9 @@ In Unix, *everything* is a file, including files, folders, keyboard, monitor, yo
 *Hidden files* begin with .
 
 # “Cheat sheet” for basic terminal usage:
+
+Note: this is a table that renders just fine in Git but doesn't render in the live view. Sorry!
+
 command | description
 --- | ---
 cd [name] | change the directory
