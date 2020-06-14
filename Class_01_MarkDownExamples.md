@@ -1,3 +1,5 @@
+- [Return to Home Page](/README.md)
+
 # Reflection on Markdown
 In this lesson I learned about the Markdown language used in Github. It formats text in a way that is similar to HTML but doesn't use html tags. It is more like plain text and reminds me of the old days before Microsoft Word when text had to be formatted with specific syntax such as ^b for bold.
 
@@ -50,4 +52,4 @@ An [example](http://example.com).
 
 Inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported.
 
-- [Home Page](/README.md)
+- [Return to Home Page](/README.md)
