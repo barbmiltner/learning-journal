@@ -8,4 +8,4 @@ My name is **Barb Miltner** and I am a STEM teacher. Over the years, courses I'v
 - [Class 01 Markdown Examples](/Class_01_MarkDownExamples.md)
 - [Lab 01b Learning Markdown](/Lab_01b_LearningMarkdownMainPage.md)
 - [Class 02 The Coder's Computer](/Class_02_TheCodersComputer.md)
-- [Class_03_Revisions and the Cloud](/Class_03_RevisionsAndTheCloud.md)
+- [Class 03 Revisions and the Cloud](/Class_03_RevisionsAndTheCloud.md)
