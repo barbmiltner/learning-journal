@@ -1,3 +1,7 @@
+# Lab 02
+
+I installed Visual Studio Code, node.js (got an error adding the nodesource signing key to my keyring), Eslint, and Git
+
 # Choosing a Text Editor
 
 Anything that allows a user to type is a text editor, such as word processors and even simple pre-installed programs like Wordpad. But when it comes to coding, a developer will want to look for one that has these features, according to [The Older Coder](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf):
@@ -42,7 +46,7 @@ In Unix, *everything* is a file, including files, folders, keyboard, monitor, yo
 # “Cheat sheet” for basic terminal usage:
 command | description
 --- | ---
-| cd [name] | change the directory |
+cd [name] | change the directory
 cd .. | go up one level in the directory
 ls [options] [location] | lists the items in a directory
 ls -l | long listing
@@ -64,6 +68,7 @@ cp [olddir/oldfile] [newdir/newfile]  | copies a file to a new location
 mv [filename] [path/to/new/file/location] | moves a file; can also be used for renaming a file
 clear | Clear the Terminal screen of all previous commands
 help [command] | Get help for a command
+tree | display a list of all directories and folders in a tree view format
 
 Up and down arrows cycle through the last commands to help reduce typing them each time.
 
