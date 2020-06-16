@@ -7,7 +7,7 @@ Git and GitHub aren't the same thing but are used together.
 
 Git is a distributed version control system (VCS). GitHub is a GUI with features for collaboration and management.
 
-## Lab 03 Cloning a Repsository
+## Lab 03 Cloning a Repository
 In this lab, I 'cloned down' my learning journal 'repo' to Google Drive, so I can do all future work in VS Code. Here's how:
 
 1. Open the GitHub repository, click the green "Clone or download" button and click the copy icon.
