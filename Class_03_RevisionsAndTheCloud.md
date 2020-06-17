@@ -11,7 +11,7 @@ Git is a distributed version control system (VCS). GitHub is a GUI with features
 In this lab, I 'cloned down' my learning journal 'repo' to Google Drive, so I can do all future work in VS Code. Here's how:
 
 1. Open the GitHub repository, click the green "Clone or download" button and click the copy icon.
-2. In the terminal application on my computer, type `cd ~/users/markb/OneDrive/DeltaV102/learning-journal` to point to my directory made specifically for this class.
+2. In the terminal application on my computer, type `cd /users/markb/OneDrive/DeltaV102` to point to my directory made specifically for this class.
 3. Type `git clone https://github.com/barbmiltner/learning-journal.git` to make a copy of this repository.
 
 ## Updating the Repository
