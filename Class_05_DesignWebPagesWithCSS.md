@@ -59,7 +59,7 @@ Colors can be specified by RGD, Hex or color name (names are available for 147 c
 
 If you don't specify a background color it will be transparent. On some browsers this will render as white but not always, so be intentional.
 
-###HSLA
+### HSLA
 * **Hue**
   * This is a color "angle" on the color wheel from 0 to 360.
 * **Saturation**
